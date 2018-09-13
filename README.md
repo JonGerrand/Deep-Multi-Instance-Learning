@@ -13,4 +13,4 @@ NOTE: This implementation code has been tested on a machine runnning python 2.7 
 4. At the conclusion of training, the resulting MIL model, as well as its performance on a test set of the data, is stored `data/checkpoint/stage_2`
 
 ## License 
-Code within this repository provided under the GPLv3 [Licence](LICENCE).
+Code within this repository provided under the GPLv3 [License](LICENSE).
